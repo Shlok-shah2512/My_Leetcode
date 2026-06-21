@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->

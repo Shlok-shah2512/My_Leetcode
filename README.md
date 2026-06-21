@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,12 +60,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -115,6 +115,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +217,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->

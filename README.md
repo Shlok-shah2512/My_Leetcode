@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +219,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->

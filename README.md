@@ -131,6 +131,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

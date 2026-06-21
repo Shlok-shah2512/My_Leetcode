@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@
 | [0053-maximum-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

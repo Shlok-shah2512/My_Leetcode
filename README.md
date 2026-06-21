@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | [0205-isomorphic-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | [0088-merge-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@
 | [0056-merge-intervals](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0155-min-stack/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

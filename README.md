@@ -19,4 +19,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->

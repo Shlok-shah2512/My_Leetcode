@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

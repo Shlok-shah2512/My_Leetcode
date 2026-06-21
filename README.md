@@ -24,6 +24,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@
 | [0035-search-insert-position](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

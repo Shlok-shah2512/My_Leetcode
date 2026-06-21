@@ -47,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

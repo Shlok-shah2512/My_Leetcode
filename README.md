@@ -153,6 +153,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0278-first-bad-version/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->

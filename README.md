@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [0069-sqrtx](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

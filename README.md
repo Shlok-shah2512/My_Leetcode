@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0027-remove-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

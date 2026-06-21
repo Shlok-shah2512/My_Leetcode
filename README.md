@@ -28,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

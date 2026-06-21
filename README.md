@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

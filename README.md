@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0066-plus-one/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

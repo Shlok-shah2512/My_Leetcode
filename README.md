@@ -94,6 +94,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0155-min-stack/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0136-single-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

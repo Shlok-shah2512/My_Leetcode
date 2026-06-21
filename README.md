@@ -37,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0071-simplify-path](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

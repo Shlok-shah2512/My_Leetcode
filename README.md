@@ -49,6 +49,7 @@
 | [0050-powx-n](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

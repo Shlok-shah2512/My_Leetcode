@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

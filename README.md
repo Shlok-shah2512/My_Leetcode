@@ -78,6 +78,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

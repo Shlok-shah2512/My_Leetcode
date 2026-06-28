@@ -158,6 +158,7 @@
 | [0162-find-peak-element](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +242,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->

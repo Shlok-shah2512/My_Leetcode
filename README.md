@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [0383-ransom-note](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | [0155-min-stack](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +265,8 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0415-add-strings/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@
 | [0383-ransom-note](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0415-add-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | [0231-power-of-two](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0415-add-strings/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +258,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->

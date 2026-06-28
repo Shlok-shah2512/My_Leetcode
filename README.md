@@ -34,6 +34,7 @@
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

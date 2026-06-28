@@ -70,6 +70,7 @@
 | [0344-reverse-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@
 | [0189-rotate-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +252,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->

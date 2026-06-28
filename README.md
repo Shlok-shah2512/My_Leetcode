@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0268-missing-number](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

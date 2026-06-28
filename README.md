@@ -207,6 +207,7 @@
 | [0112-path-sum](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@
 | [0112-path-sum](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shlok-shah2512/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
